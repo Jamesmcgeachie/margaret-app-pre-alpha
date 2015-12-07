@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  volunteering_time: 2015-12-06 19:57:03
+  volunteer_id: 
+  opportunity_id: 
+
+two:
+  volunteering_time: 2015-12-06 19:57:03
+  volunteer_id: 
+  opportunity_id: 
